@@ -1,1 +1,4 @@
-
+def hello()
+{
+  echo "hello"
+}
